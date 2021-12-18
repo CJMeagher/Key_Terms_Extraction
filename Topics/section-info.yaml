@@ -1,0 +1,25 @@
+content:
+- String formatting
+- Basic string methods
+- Identity testing
+- List comprehension
+- Nested lists
+- Split and join
+- Defaultdict and Counter
+- Class
+- Class instances
+- Methods
+- Regexps in Python
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- XML in Python
+- Reading files
+- Tokenization
+- The string module
+- Text normalization
+- Tuple
+- POS tagging
+- Methods and attributes
+- TF-IDF vectorizer

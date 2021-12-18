@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9501#comment
+status: Failed
+feedback:
+  message: "Failed. Runtime error\n\nError:\n  File \"jailed_code\", line 2\n    \n\
+    \                                 ^\nSyntaxError: unexpected EOF while parsing\n"
+  time: Sun, 21 Nov 2021 19:46:36 UTC
+record: -1
